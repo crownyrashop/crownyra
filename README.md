@@ -1,0 +1,2 @@
+Dropshipping Store
+Simple template.
